@@ -1,0 +1,7 @@
+# binary file
+/bin/*.exe
+/bin/*.dll
+/bin/*.a
+/bin/*.o
+# db
+/data.db
